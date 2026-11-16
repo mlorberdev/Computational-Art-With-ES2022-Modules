@@ -42,7 +42,7 @@ async function draw() {
 ### Sample
 ![ss5](./assets/images/mlorber_algorithmic_art%20(11).jpg)
 ### Certificate of Authenticity (COA) Sample
-![ss5](./assets/images/mlorber_algorithmic_art(8).jpg)
+![ss5](./assets/images/mlorber_algorithmic_art(8).png)
 
 ## License
 2022 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) attribution required.
