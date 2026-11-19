@@ -25,10 +25,10 @@ async function draw() {
 
 ## Screenshots
 
-### Work Area
-![ss0](./assets/images/mlorber_algorithmic_art%20(0).png)
 ### Work Area with Sample
 ![ss1](./assets/images/mlorber_algorithmic_art%20(1).png)
+### Responsive Work Area (Mobile)
+![ss5](./assets/images/mlorber_algorithmic_art%20(12).png)
 ### Sample
 ![ss2](./assets/images/mlorber_algorithmic_art%20(3).jpg)
 ### Sample
@@ -45,8 +45,6 @@ async function draw() {
 ![ss5](./assets/images/mlorber_algorithmic_art%20(10).jpg)
 ### Sample
 ![ss5](./assets/images/mlorber_algorithmic_art%20(11).jpg)
-### Responsive Work Area (Mobile)
-![ss5](./assets/images/mlorber_algorithmic_art%20(12).png)
 ### Certificate of Authenticity (COA) Sample
 ![ss5](./assets/images/mlorber_algorithmic_art(8).png)
 
