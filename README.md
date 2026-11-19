@@ -25,6 +25,10 @@ async function draw() {
 
 ## Screenshots
 
+### Work Area
+![ss2](./assets/images/mlorber_algorithmic_art%20(0).jpg)
+### Work Area with Sample
+![ss2](./assets/images/mlorber_algorithmic_art%20(1).jpg)
 ### Sample
 ![ss2](./assets/images/mlorber_algorithmic_art%20(3).jpg)
 ### Sample
