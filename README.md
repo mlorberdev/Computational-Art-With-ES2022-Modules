@@ -45,6 +45,8 @@ async function draw() {
 ![ss5](./assets/images/mlorber_algorithmic_art%20(10).jpg)
 ### Sample
 ![ss5](./assets/images/mlorber_algorithmic_art%20(11).jpg)
+### Responsive Work Area (Mobile)
+![ss5](./assets/images/mlorber_algorithmic_art%20(12).png)
 ### Certificate of Authenticity (COA) Sample
 ![ss5](./assets/images/mlorber_algorithmic_art(8).png)
 
