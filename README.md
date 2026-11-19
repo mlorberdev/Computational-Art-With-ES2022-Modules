@@ -26,9 +26,9 @@ async function draw() {
 ## Screenshots
 
 ### Work Area
-![ss2](./assets/images/mlorber_algorithmic_art%20(0).jpg)
+![ss0](./assets/images/mlorber_algorithmic_art%20(0).png)
 ### Work Area with Sample
-![ss2](./assets/images/mlorber_algorithmic_art%20(1).jpg)
+![ss1](./assets/images/mlorber_algorithmic_art%20(1).png)
 ### Sample
 ![ss2](./assets/images/mlorber_algorithmic_art%20(3).jpg)
 ### Sample
